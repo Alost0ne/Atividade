@@ -1,6 +1,4 @@
-import PromptSync from "prompt-sync";
 
-const prompt = PromptSync();
 
 const array = [10, 12, 15, 35, 40]
 

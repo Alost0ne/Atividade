@@ -1,6 +1,4 @@
- import PromptSync from "prompt-sync"
 
-const prompt = PromptSync()
 
 const arrayPrint = [
     [5,10,12],
